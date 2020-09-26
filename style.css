@@ -94,7 +94,7 @@ html, body{
 /* Start of About Section */
 .about{
     height: 600px;
-    padding: 50px;
+    padding: 10px 50px 50px 50px;
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;/**/
